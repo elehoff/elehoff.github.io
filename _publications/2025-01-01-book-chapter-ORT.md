@@ -4,7 +4,7 @@ collection: publications
 category: book chapter
 permalink: /publication/2025-01-01-book-chapter-ORT
 excerpt: 'This book chapter asks why it still made sense to provide technical education in Yiddish to Jewish youth of interwar seeking paths out of Poland.'
-date: 2025-01-01
+date: 2024-10-01
 venue: 'East Central Europe at the Crossroads'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
