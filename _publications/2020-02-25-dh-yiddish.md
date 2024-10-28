@@ -7,5 +7,5 @@ excerpt: 'I spoke with Gerben Zaagsma about Yiddish, klezmer music, the Spanish 
 date: 2020-02-25
 venue: 'In geveb'
 paperurl: 'https://ingeveb.org/blog/the-promise-and-peril-of-digital-research-in-yiddish-an-interview-with-gerben-zaagsma'
-citation: 'Hoffenberg, Elena. “The Promise and Peril of Digital Research in Yiddish: An Interview with Gerben Zaagsma.” *In geveb* (February 2020).'
+citation: 'Hoffenberg, Elena. “The Promise and Peril of Digital Research in Yiddish: An Interview with Gerben Zaagsma.” <i>In geveb</i> (February 2020).'
 ---

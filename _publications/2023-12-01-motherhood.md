@@ -8,3 +8,4 @@ date: 2023-12-01
 venue: 'AJS Perspectives'
 paperurl: 'https://www.associationforjewishstudies.org/docs/default-source/ajs-perspectives/ajs_perspectives-mother-issue-website.pdf?Status=Master&sfvrsn=f80c815c_11'
 citation: 'Kirzane, Jessica, and Elena Hoffenberg. “Mothers and Motherhood in Jewish History and Culture: A Teaching Reflection.” *AJS Perspectives*, Winter 2023, 90–92.'
+---

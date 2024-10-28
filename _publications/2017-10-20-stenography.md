@@ -7,5 +7,5 @@ excerpt: 'Stenography is by its very nature ephemeral: if few typed manuscripts 
 date: 2017-10-20
 venue: 'In geveb'
 paperurl: 'https://ingeveb.org/blog/making-sense-of-squiggles-teaching-and-learning-yiddish-stenography'
-citation: 'Hoffenberg, Elena. “Making Sense of Squiggles: Teaching and Learning Yiddish Stenography.” *In geveb* (October 2017):'
+citation: 'Hoffenberg, Elena. “Making Sense of Squiggles: Teaching and Learning Yiddish Stenography.” <i>In geveb</i> (October 2017):'
 ---
