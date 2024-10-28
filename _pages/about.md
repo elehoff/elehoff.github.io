@@ -16,6 +16,7 @@ My dissertation "Making a Living and Making a Life: Jewish Futures and Capitalis
 
 ![Class of children stand in front of banner with Polish and Hebrew](https://github.com/elehoff/elehoff.github.io/blob/d3e1182567ae59699b2f6303b169a3d8b6e15851/images/yarg120po6736.jpg)
 
+
 {:.image-caption}
 *School children, posing with a wall banner for a campaign to save money in the PKO (1930s), from [YIVO Photo Archives](http://polishjews.yivoarchives.org/archive/index.php?p=collections/controlcard&id=20742).*
 
