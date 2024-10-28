@@ -41,7 +41,7 @@ Teaching
 Service and leadership
 ======
 * Peer Review Editorial Associate, *In geveb: A Journal of Yiddish Studies* (2022-2024)
-* Graduate Student Representative, Advisory Board, National LCTL Resource CEnter, Michigan State University (2022-2024)
+* Graduate Student Representative, Advisory Board, National LCTL Resource Center, Michigan State University (2022-2024)
 * Board Member, History Graduate Students Association, University of Chicago (2022-2023)
 * Coordinator, Jewish Studies Workshop, Council on Advanced Studies, University of Chicago (2022-2023)
 * Coordinator, Transnational Approaches to Modern Europe Workshop, Council on Advanced Studies, University of Chicago (2021-2022)
