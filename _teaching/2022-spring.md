@@ -9,5 +9,7 @@ location: "Chicago, IL"
 ---
 
 Teaching Intern for Jewish Studies 12004: Mothers and Motherhood in Modern Jewish Culture
+
 Dr. Jessica Kirzane
+
 Social Sciences Collegiate Division, University of Chicago

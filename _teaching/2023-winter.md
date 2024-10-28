@@ -9,5 +9,7 @@ location: "Chicago, IL"
 ---
 
 Teaching Intern for Jewish Civilization II: Early Modern Period to 21st Century
+
 Prof. Kenneth B. Moss
+
 Social Sciences Collegiate Division, University of Chicago

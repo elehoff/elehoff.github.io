@@ -9,5 +9,7 @@ location: "Chicago, IL"
 ---
 
 Non-Instructional Grader for History 17809: The United States since 1920
+
 Prof. Jane Dailey
+
 Department of History, University of Chicago
