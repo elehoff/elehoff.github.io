@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Welcome, *borukh habo*!
+Welcome, *borekhabo*!
 ======
 This is the personal academic website for Elena Hoffenberg, PhD candidate in modern Jewish history at the University of Chicago Please use the tabs above to view information about my publications, talks, and teaching. 
 
