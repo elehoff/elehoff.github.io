@@ -1,7 +1,7 @@
 ---
 title: "Birth Rates and Communal Fates: Jewish Demographic Patterns and Reproduction in Germany under National Socialism"
 collection: publications
-category: manuscripts
+category: chapters
 permalink: /publication/2022-01-01-book-chapter-birth-rates
 excerpt: 'Based on genealogical data, contemporary press accounts, and postwar testimony, this work looks at the birth rates of German Jews in the 1920s and 1930s to understand how political changes shape intimate lives.'
 date: 2022-01-01

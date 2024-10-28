@@ -1,7 +1,7 @@
 ---
 title: "The Promise and Peril of Digital Research in Yiddish: An Interview with Gerben Zaagsma"
 collection: publications
-category: interview
+category: other
 permalink: /publication/2020-02-25-dh-yiddish
 excerpt: 'I spoke with Gerben Zaagsma about Yiddish, klezmer music, the Spanish Civil War, and digital studies.'
 date: 2020-02-25

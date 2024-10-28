@@ -1,7 +1,7 @@
 ---
 title: "Mothers and Motherhood in Jewish History and Culture: A Teaching Reflection"
 collection: publications
-category: interview
+category: other
 permalink: /publication/2023-12-01-motherhood
 excerpt: 'In this edited conversation, Jessica Kirzane and I reflect on the course we taught in Spring 2022 on mothers and motherhood in Jewish history and culture.'
 date: 2023-12-01
