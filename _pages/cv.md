@@ -18,7 +18,7 @@ Education
 
 Research and Teaching Interests
 ======
-Modern Jewish history, history of the family, history of economic life, religion, gender and sexuality
+Modern Jewish history, history of the family, history of economic life, religion, gender and sexuality, digital humanities
 
 Publications
 ======
@@ -50,19 +50,12 @@ Service and leadership
 Work experience
 ======
 * 2023-present: Academic Technology Specialist, Social Sciences Computing Service, University of Chicago
-
 * 2022-present: Slavic and East European Materials Assistant, Regenstein Library, University of Chicago
-
-* 2022: Exhibition Researcher, Yiddish Book CEnter
-
+* 2022: Exhibition Researcher, Yiddish Book Center
 * 2020-2022: Translator from Hebrew and Yiddish, JewishGen Yizkor Book Project
-
 * 2020: Researcher, COVID-19 Collections Survey, Lippman Kanfer Foundation for Living Torah
-
 * 2019-2020: Digital Humanities Associate Fellow, United States Holocaust Memorial Museum
-
 * 2016-2018: Development Assistant, Jewish Women's Archive
-
 * 2016: Junior Fellow, Hebraic Section, Library of Congress
 
 Languages

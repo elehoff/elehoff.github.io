@@ -119,6 +119,7 @@ a {
   &:hover,
   &:active {
     outline: 0;
+    color: "#74242a";
   }
 }
 
@@ -254,6 +255,11 @@ figcaption {
   }
 }
 
+.image-caption {
+  text-align: center;
+  font-size: .8rem;
+  color: lightgrey;
+}
 
 /* Fix IE9 SVG bug */
 

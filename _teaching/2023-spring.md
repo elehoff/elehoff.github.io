@@ -8,7 +8,6 @@ date: 2023-04-01
 location: "Chicago, IL"
 ---
 
-
 Prof. Jane Dailey, History 17809: The United States since 1920
 
 Department of History, University of Chicago
