@@ -8,8 +8,6 @@ date: 2022-04-01
 location: "Chicago, IL"
 ---
 
-Teaching Intern for Jewish Studies 12004: Mothers and Motherhood in Modern Jewish Culture
-
-Dr. Jessica Kirzane
+Dr. Jessica Kirzane, Jewish Studies 12004: Mothers and Motherhood in Modern Jewish Culture
 
 Social Sciences Collegiate Division, University of Chicago

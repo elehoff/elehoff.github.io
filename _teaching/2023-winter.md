@@ -8,8 +8,6 @@ date: 2023-01-01
 location: "Chicago, IL"
 ---
 
-Teaching Intern for Jewish Civilization II: Early Modern Period to 21st Century
-
-Prof. Kenneth B. Moss
+Prof. Kenneth B. Moss, Jewish Civilization II: Early Modern Period to 21st Century
 
 Social Sciences Collegiate Division, University of Chicago
