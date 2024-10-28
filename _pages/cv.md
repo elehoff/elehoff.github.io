@@ -59,6 +59,12 @@ Work experience
 
 * 2020: Researcher, COVID-19 Collections Survey, Lippman Kanfer Foundation for Living Torah
 
+* 2019-2020: Digital Humanities Associate Fellow, United States Holocaust Memorial Museum
+
+* 2016-2018: Development Assistant, Jewish Women's Archive
+
+* 2016: Junior Fellow, Hebraic Section, Library of Congress
+
 Languages
 ======
 * Yiddish and Hebrew (advanced)

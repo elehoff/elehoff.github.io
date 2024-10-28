@@ -22,6 +22,6 @@ My dissertation presents how contemporary actors diagnosed the condition of Poli
 ![Pamphlets and books in boxes on metal shelves](images/banner.jpg)
 *Yiddish-language materials at the Library of Congress*
 
-I have previously completed graduate work in Holocaust Studies at the University of Haifa and in library science at Simmons University. Before pursuing graduate studies, I worked at the Jewish Women's Archive and held a Junior Fellowship at the Library of Congress.
+I have previously completed graduate work in Holocaust Studies at the University of Haifa and in library science at Simmons University. While completing these degrees, I served as the Digital Humanities Associate Fellow at the United States Holocaust Memorial Museum. Before pursuing graduate studies, I worked at the Jewish Women's Archive and held a Junior Fellowship at the Library of Congress.
 
 This page was built from the template [Academic Pages](https://academicpages.github.io/markdown/).
