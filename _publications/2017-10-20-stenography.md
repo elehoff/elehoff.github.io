@@ -1,7 +1,7 @@
 ---
 title: "Making Sense of Squiggles: Teaching and Learning Yiddish Stenography"
 collection: publications
-category: manuscript
+category: other
 permalink: /publication/2017-10-20-stenography
 excerpt: 'Stenography is by its very nature ephemeral: if few typed manuscripts of published works have been preserved, even fewer of the first transcribed drafts have survived. But published educational materials illuminate the trends of linguistic assimilation as they played out in Yiddish stenographic theory and practice.'
 date: 2017-10-20
