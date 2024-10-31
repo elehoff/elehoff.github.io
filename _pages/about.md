@@ -23,4 +23,4 @@ I have previously completed graduate work in Holocaust Studies at the University
 
 ![Pamphlets and books in boxes on metal shelves](/images/banner.jpg)
 
-This page was built from the template [Academic Pages](https://academicpages.github.io/markdown/).
+*Yiddish materials at the Library of Congress.*
