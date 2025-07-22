@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* PhD in Modern Jewish History, University of Chicago, 2027 (expected)
+* PhD in Modern Jewish History, University of Chicago, 2028 (expected)
 * MLIS in Library Science, Simmons University, 2020
 * MA in Holocaust Studies, University of Haifa, 2020
 * BA in History and Near Eastern Languages and Civilizations, Harvard College, 2016
