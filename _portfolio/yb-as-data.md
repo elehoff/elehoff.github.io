@@ -4,5 +4,5 @@ excerpt: "Approaching the corpus of postwar memorial books<br/><img src='yb-venn
 collection: portfolio
 ---
 
-Hundreds of volumes were published in several languages by émigrés and survivors from Jewish Eastern Europe. These *yizker bikher* offer insights into prewar Jewish life, Holocaust memory, and migration patterns. I have given [talks](/talks.html) about this project and I have an upcoming [article](/publications.html) on use of computational methods to analyze the language and images in these volumes.   
+Hundreds of volumes were published in several languages by émigrés and survivors from Jewish Eastern Europe. These *yizker bikher* offer insights into prewar Jewish life, Holocaust memory, and migration patterns. I have given [talks](https://elehoff.github.io/talks/) about this project and I have an upcoming [article](https://elehoff.github.io/publications.html) on use of computational methods to analyze the language and images in these volumes.   
 
