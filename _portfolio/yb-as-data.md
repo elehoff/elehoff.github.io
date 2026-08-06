@@ -1,6 +1,6 @@
 ---
 title: "*Yizker bikher* as data"
-excerpt: <img src='/images/yb-venn-diagram.png'>"
+excerpt: <img src='/images/yb-venn-diagram.png' width="600" height="450">
 collection: portfolio
 ---
 
